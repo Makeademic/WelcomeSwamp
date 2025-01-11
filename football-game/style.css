@@ -1,0 +1,42 @@
+body {
+  background: black;
+  color: white;
+  font-family: "Nunito Sans";
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container1 {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin: 1em;
+  background-image: url("http://emilyfbrooks.com/welcometotheswamp/images/WelcometotheSwampDigital-03.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.return-button {
+  margin: 1em;
+  font-size: 16px;
+}
+
+button {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+#canvas {
+  background-color: white;
+  touch-action: none;
+}
