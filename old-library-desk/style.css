@@ -14,7 +14,7 @@ body {
   align-items: center;
   align-content: center;
   margin: 1em;
-  background-image: url("http://emilyfbrooks.com/welcometotheswamp/images/WelcometotheSwampDigital-07.jpg");
+  background-image: url("/images/WelcometotheSwampDigital-07.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
