@@ -4,7 +4,7 @@ var c = canvas.getContext("2d");
 
 
 var img = new Image();
-img.src = "http://emilyfbrooks.com/welcometotheswamp/images/WelcometotheSwampDigitalBlank-03.jpg";
+img.src = "/images/WelcometotheSwampDigitalBlank-03.jpg";
 
 var out = document.getElementById("out");
 window.requestAnimationFrame =
